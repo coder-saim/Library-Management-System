@@ -1,0 +1,9 @@
+1	Linear Algebra	David C. Lay	112	true
+2	Electronic Devices	Robert L. Boylestad	648	true
+3	Java-The COmplete Reference	Herbert Shield	871	true
+4	Algorithms	Thomas Cormen	1313	true
+1	Linear Algebra	David C. Lay	112	true
+2	Electronic Devices	Robert L. Boylestad	648	true
+3	Java-The COmplete Reference	Herbert Shield	871	true
+4	Algorithms	Thomas Cormen	1313	true
+9	DSA	Ami	200	true
